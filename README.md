@@ -28,29 +28,29 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
-<img src="https://img.icons8.com/plasticine/27/000000/android-os.png" align="left" alt="android os" />
+<img src="https://img.icons8.com/plasticine/27/000000/android-os.png" align="left" alt="android os" title="android os" />
 
-<img src="https://img.icons8.com/color/26/000000/kotlin.png" align="left" alt="kotlin" />
+<img src="https://img.icons8.com/color/26/000000/kotlin.png" align="left" alt="kotlin" title="kotlin"/>
 
-<img src="https://img.icons8.com/dusk/26/000000/java-coffee-cup-logo.png" align="left" alt ="java" />
+<img src="https://img.icons8.com/dusk/26/000000/java-coffee-cup-logo.png" align="left" alt ="java" title="java"/>
 
-<img src="https://img.icons8.com/color/26/000000/react-native.png" align="left" alt="react native" />
+<img src="https://img.icons8.com/color/26/000000/react-native.png" align="left" alt="react native" title="react native"/>
 
-<img src="https://img.icons8.com/color/26/000000/git.png" align="left" alt="git" />
+<img src="https://img.icons8.com/color/26/000000/git.png" align="left" alt="git" title="git"/>
 
-<img src="https://img.icons8.com/fluent/26/000000/github.png"/>
+<img src="https://img.icons8.com/fluent/26/000000/github.png" align="left" alt="github" title="github"/>
 
-<img src="https://img.icons8.com/ultraviolet/26/000000/database.png" align="left" alt="sql" />
+<img src="https://img.icons8.com/ultraviolet/26/000000/database.png" align="left" alt="sql" title="sql"/>
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" width="26px" align="left" alt="mysql" />
+<img src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" width="26px" align="left" alt="mysql" title="mysql"/>
 
-<img src="https://img.icons8.com/fluent/26/000000/visual-studio-code-2019.png"  align="left" alt="visual studio" />
+<img src="https://img.icons8.com/fluent/26/000000/visual-studio-code-2019.png"  align="left" alt="visual studio" title="visual studio"/>
 
-<img src="https://img.icons8.com/color/26/000000/javascript.png" align="left" alt="javascript" />
+<img src="https://img.icons8.com/color/26/000000/javascript.png" align="left" alt="javascript" title="javascript"/>
 
-<img src="https://img.icons8.com/color/26/000000/html-5.png" align="left" alt="html5" />
+<img src="https://img.icons8.com/color/26/000000/html-5.png" align="left" alt="html5" title="html"/>
 
-<img src="https://img.icons8.com/color/26/000000/css3.png" align="left" alt="css3" />
+<img src="https://img.icons8.com/color/26/000000/css3.png" align="left" alt="css3" title="css"/>
 
 
 [linkedin]: https://www.linkedin.com/in/mark-arago/
