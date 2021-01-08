@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there! I'm Mark 👋
 
-#### I'm Mark a Developer, Gamer, Memer and a Dog Lover 🐾
+#### I'm a Developer, Gamer, Memer and a Dog Lover 🐾
 
 <br />
 
@@ -8,9 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an Android Project!
 - 🌱 I’m currently learning Hilt, Coroutines and many more! 😆
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about anything!
 - ⚡ Fun fact: I reached the top 0.02% of playerbase in a game called League of Legends 
 
 <br />
@@ -38,7 +36,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.icons8.com/color/26/000000/git.png" align="left" alt="git" title="git"/>
 
-<img src="https://img.icons8.com/fluent/26/000000/github.png" align="left" alt="github" title="github"/>
+<img src="https://img.icons8.com/fluent/26/000000/github.png" alt="github" title="github"/>
 
 <img src="https://img.icons8.com/ultraviolet/26/000000/database.png" align="left" alt="sql" title="sql"/>
 
