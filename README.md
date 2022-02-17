@@ -1,13 +1,13 @@
 ## Hi there! I'm Mark 👋
 
-#### I'm a Developer, Gamer, Memer and a Dog Lover 🐾
+#### I'm a Developer, Gamer, and a Dog Lover 🐾
 
 <br />
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an Android Project!
-- 🌱 I’m currently learning Hilt, Coroutines and many more! 😆
+- 🌱 I’m currently learning Jetpack Compose, RxJava, Coroutines and many more! 😆
 - 💬 Ask me about anything!
 - ⚡ Fun fact: I reached the top 0.02% of playerbase in a game called League of Legends 
 
@@ -39,17 +39,6 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/fluent/26/000000/github.png" alt="github" title="github"/>
 
 <img src="https://img.icons8.com/ultraviolet/26/000000/database.png" align="left" alt="sql" title="sql"/>
-
-<img src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" width="26px" align="left" alt="mysql" title="mysql"/>
-
-<img src="https://img.icons8.com/fluent/26/000000/visual-studio-code-2019.png"  align="left" alt="visual studio" title="visual studio"/>
-
-<img src="https://img.icons8.com/color/26/000000/javascript.png" align="left" alt="javascript" title="javascript"/>
-
-<img src="https://img.icons8.com/color/26/000000/html-5.png" align="left" alt="html5" title="html"/>
-
-<img src="https://img.icons8.com/color/26/000000/css3.png" align="left" alt="css3" title="css"/>
-
 
 [linkedin]: https://www.linkedin.com/in/mark-arago/
 [instagram]: https://www.instagram.com/mrkarago/
