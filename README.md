@@ -6,10 +6,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an Android Project!
-- 🌱 I’m currently learning Jetpack Compose, RxJava, Coroutines and many more! 😆
+- 🔭 I’m currently working as an Android Developer!
+- 🌱 I’m currently working with a lot of cool techs like Jetpack Compose, RxJava, Coroutines and many more! 😆
 - 💬 Ask me about anything!
-- ⚡ Fun fact: I reached the top 0.02% of playerbase in a game called League of Legends 
+- ⚡ Fun fact: I reached the top 0.02% of playerbase in a game called League of Legends.
 
 <br />
 
