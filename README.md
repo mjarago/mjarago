@@ -7,9 +7,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as an Android Developer!
-- 🌱 I’m currently working with a lot of cool techs like Jetpack Compose, RxJava, Coroutines and many more! 😆
-- 💬 Ask me about anything!
 - ⚡ Fun fact: I reached the top 0.02% of playerbase in a game called League of Legends.
+- 💬 Ask me about anything!
 
 <br />
 
