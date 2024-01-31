@@ -1,12 +1,10 @@
 ## Hi there! I'm Mark 👋
 
-#### I'm a Developer, Gamer, and a Dog Lover 🐾
-
 <br />
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as an Android Developer!
+- 🔭 I’m currently working as an Android Developer.
 - ⚡ Fun fact: I reached the top 0.02% of playerbase in a game called League of Legends.
 - 💬 Ask me about anything!
 
